@@ -1,2 +1,5 @@
 # Intro_Github
- Primera Sesión
+# Primera Sesión
+
+## Charla taller
+En esta sesión veremos una introducción a Github
